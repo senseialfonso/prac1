@@ -1,7 +1,6 @@
-# 🏫  UOC 2022/2023-1
+# 🏫  2023
 
-- [Aula català](#📂-fitxers-per-la-pràctica)
-- [Aula castellano](#📂-archivos-para-la-práctica)
+
 
 ```bash
 |- node-app
@@ -10,14 +9,6 @@
 |- reverse-proxy
 |- docker-compose.yml
 ```
-
-## 📂 Fitxers per la pràctica
-
-En aquest projecte trobareu l'estructura i fitxers necessaris per començar amb la pràctica.
-
-El directori 📂 `app`conté el fitxers del servidor web `nodejs + express`. Aquest directori 🖐 NO s'ha de modificar.
-
-👉 Cal afegir el fitxers necessaris a  📁 `reverse-proxy` per configurar el reverse proxy i modificar els diferents `Dockerfile` corresponents i el fitxer `docker-compose`en funció de cada un dels exercicis.
 
 
 ## 📂 Archivos para la práctica
