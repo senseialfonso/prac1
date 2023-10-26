@@ -13,7 +13,7 @@
 
 ## 📂 Archivos para la práctica
 
-En este proyecto encontraréis la estructura y archivos necesarios para empezar con la práctica.
+En este proyecto encontraras la estructura y archivos necesarios para empezar con la práctica.
 
 El directorio 📂 `app` contiene los archivos del servidor web `nodejs + express`. Este directorio 🖐 NO debe modificarse.
 
